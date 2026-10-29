@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEXUS FF PANEL</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tools">Gaming Tools</string>
+    <string name="nav_shift">Screen Shift</string>
+    <string name="nav_settings">Settings</string>
+    <string name="floating_panel">Floating Panel</string>
+    <string name="screen_shift">Screen Shift</string>
+    <string name="settings">Settings</string>
+    <string name="performance_tools">Performance Tools</string>
+    <string name="shizuku_status">Shizuku status</string>
+</resources>

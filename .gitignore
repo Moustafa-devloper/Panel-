@@ -19,3 +19,6 @@ local.properties
 
 # Logs
 *.log
+
+# Generated files
+*.apk
