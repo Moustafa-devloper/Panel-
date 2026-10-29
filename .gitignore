@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local properties
+local.properties
+
+# Signing
+*.jks
+*.keystore
+
+# Logs
+*.log
